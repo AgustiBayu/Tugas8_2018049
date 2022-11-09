@@ -126,7 +126,7 @@
                     android:id="@+id/textView5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/Resep"
+                    android:text="Jadi begini, begitu"
                     android:textColor="@color/white_blur"
                     android:layout_marginStart="10dp" />
                 <LinearLayout
@@ -154,7 +154,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/Harga_Kebab"
+                            android:text="Rp 15.000"
                             android:textColor="@color/white"
                             android:layout_marginStart="10dp"
                             android:textSize="24sp"/>

@@ -4,15 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/dev/2018049T3/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.115" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/ic_chat.xml" value="0.149" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/ic_message.xml" value="0.149" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/ic_profile.xml" value="0.149" />
-        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main.xml" value="0.20244565217391305" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main2.xml" value="0.20244565217391305" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main3.xml" value="0.20244565217391305" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main4.xml" value="0.20244565217391305" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_risoles.xml" value="0.20244565217391305" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/item_makanan.xml" value="0.20416666666666666" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/recyleview.xml" value="0.20416666666666666" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/menu/draw_menu.xml" value="0.19010416666666666" />
       </map>
     </option>
