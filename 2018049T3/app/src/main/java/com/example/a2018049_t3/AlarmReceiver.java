@@ -17,8 +17,8 @@ public class AlarmReceiver extends BroadcastReceiver {
         NotificationCompat.Builder builder = new
                 NotificationCompat.Builder(context, "AlarmManager")
                 .setSmallIcon(R.drawable.ic_profile)
-                .setContentTitle("ini Alarm Manager")
-                .setContentText("Praktikum BAB 6 Alarm Manager")
+                .setContentTitle("Jangan Pernah Bergantung Kepada Seseorang")
+                .setContentText("Agusti Bayu Samudro 2018049")
                 .setAutoCancel(true)
                 .setDefaults(NotificationCompat.DEFAULT_ALL)
                 .setPriority(NotificationCompat.PRIORITY_HIGH)
