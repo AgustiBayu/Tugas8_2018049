@@ -1,4 +1,16 @@
 package com.example.a2018049_t3;
+import static com.example.a2018049_t3.DBmain.TABLENAME;
+import androidx.core.content.ContextCompat;
+import androidx.annotation.Nullable;
+import android.Manifest;
+import android.content.ContentValues;
+import android.content.pm.PackageManager;
+import android.database.sqlite.SQLiteDatabase;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
+import android.net.Uri;
+
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -68,6 +80,9 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else if (id == R.id.nav_profile){
                     Intent a = new Intent(MainActivity.this, Biodata.class);
+                    startActivity(a);
+                } else if (id == R.id.nav_menu) {
+                    Intent a = new Intent(MainActivity.this, datamenu.class);
                     startActivity(a);
                 }
                 return true;

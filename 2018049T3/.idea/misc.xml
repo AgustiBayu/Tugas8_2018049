@@ -12,7 +12,9 @@
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/ic_timer.xml" value="0.146" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/drawable/listdata.xml" value="0.146" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_biodata.xml" value="0.20416666666666666" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_datamenu.xml" value="0.20416666666666666" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_destination.xml" value="0.20416666666666666" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_display_data.xml" value="0.20416666666666666" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main2.xml" value="0.1" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/activity_main3.xml" value="0.20244565217391305" />
@@ -21,7 +23,9 @@
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/item_makanan.xml" value="0.20416666666666666" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/nav_header.xml" value="0.2" />
         <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/recyleview.xml" value="0.20416666666666666" />
-        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/menu/draw_menu.xml" value="0.19010416666666666" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/layout/singledata.xml" value="0.25" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/menu/draw_menu.xml" value="0.33" />
+        <entry key="..\:/dev/mobile2018049/2018049T3/app/src/main/res/menu/flow_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
