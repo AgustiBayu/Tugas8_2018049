@@ -81,6 +81,47 @@
                         android:text="Kebab"
                         android:textColor="@color/white"
                         android:textSize="24sp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            app:srcCompat="@drawable/ic_baseline_star_rate_24"/>
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            app:srcCompat="@drawable/ic_baseline_star_rate_24"/>
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            app:srcCompat="@drawable/ic_baseline_star_rate_24"/>
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            app:srcCompat="@drawable/ic_baseline_star_rate_24"/>
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+
+                            app:srcCompat="@drawable/ic_baseline_star_half_24"/>
+                        <TextView
+                            android:id="@+id/textView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="4.8"
+                            android:textColor="@color/white"
+                            android:layout_marginTop="3dp"
+                            android:layout_marginStart="2dp"/>
+                    </LinearLayout>
+
                     <TextView
                         android:id="@+id/textView3"
                         android:layout_width="match_parent"
@@ -108,44 +149,6 @@
                         android:layout_marginStart="10dp"
                         android:text="Jadi begini, begitu."
                         android:textColor="@color/white_blur" />
-
-                    <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="horizontal">
-
-                        <ImageView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-
-                            app:srcCompat="@drawable/ic_baseline_star_rate_24" />
-
-                        <ImageView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-
-                            app:srcCompat="@drawable/ic_baseline_star_rate_24" />
-
-                        <ImageView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-
-                            app:srcCompat="@drawable/ic_baseline_star_rate_24" />
-
-                        <ImageView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-
-                            app:srcCompat="@drawable/ic_baseline_star_rate_24" />
-
-                        <ImageView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-
-                            app:srcCompat="@drawable/ic_baseline_star_half_24" />
-
-
-                    </LinearLayout>
 
                     <LinearLayout
                         android:layout_width="match_parent"
